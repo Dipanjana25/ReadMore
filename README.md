@@ -11,4 +11,4 @@ cd rdmr
 python manage.py migrate
 cp .env.example .env and fill the secret key and debug values in .env
 python manage.py runserver
-Its running now on https://localhost:8000/
+It's running now on https://localhost:8000/
